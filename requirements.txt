@@ -4,5 +4,5 @@ Flask==1.1.2
 Jinja2==2.10.1
 requests==2.22.0
 requests-file==1.4.3
-urllib3==1.25.8
+urllib3==1.26.5
 WTForms==2.3.1
